@@ -1,0 +1,27 @@
+{
+  "edition": "Transcript-grounded textbook rewrite",
+  "prepared": "2026-09-25",
+  "chapters": 9,
+  "chapter_words": 32152,
+  "timestamped_sections": 47,
+  "primary_references": 34,
+  "exercises_with_full_solutions": 45,
+  "python_examples_executed": 16,
+  "numerical_examples_checked": 25,
+  "editorial_checks_passed": 45,
+  "offline_browser_pages": 13,
+  "responsive_viewports": [
+    [
+      1365,
+      950
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "math_errors": 0,
+  "code_copy_and_print_controls": "passed",
+  "caption_hashes_and_playlist_order": "verified for all 9 recordings",
+  "source_boundary": "Complete captions acquired; distributed excerpts and targeted passages reviewed. Slides not comprehensively audited. Topic provenance is not a content-reuse percentage."
+}

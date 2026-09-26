@@ -1,0 +1,472 @@
+[
+  {
+    "chapter": 1,
+    "slug": "lecture-01-overview",
+    "section": "1. Scaling changes the distribution of possible solutions 02:00",
+    "anchor": "1-scaling-changes-the-distribution-of-possible-solutions-0200",
+    "video_id": "6YnLB0XbTnI",
+    "start": 120,
+    "window_end": 360,
+    "url": "https://www.youtube.com/watch?v=6YnLB0XbTnI&t=120s"
+  },
+  {
+    "chapter": 1,
+    "slug": "lecture-01-overview",
+    "section": "2. Prompting supplies information without changing weights 06:00",
+    "anchor": "2-prompting-supplies-information-without-changing-weights-0600",
+    "video_id": "6YnLB0XbTnI",
+    "start": 360,
+    "window_end": 720,
+    "url": "https://www.youtube.com/watch?v=6YnLB0XbTnI&t=360s"
+  },
+  {
+    "chapter": 1,
+    "slug": "lecture-01-overview",
+    "section": "3. Post-training changes which behaviors are probable 12:00",
+    "anchor": "3-post-training-changes-which-behaviors-are-probable-1200",
+    "video_id": "6YnLB0XbTnI",
+    "start": 720,
+    "window_end": 1200,
+    "url": "https://www.youtube.com/watch?v=6YnLB0XbTnI&t=720s"
+  },
+  {
+    "chapter": 1,
+    "slug": "lecture-01-overview",
+    "section": "4. More inference can reveal capability without learning 20:00",
+    "anchor": "4-more-inference-can-reveal-capability-without-learning-2000",
+    "video_id": "6YnLB0XbTnI",
+    "start": 1200,
+    "window_end": 2460,
+    "url": "https://www.youtube.com/watch?v=6YnLB0XbTnI&t=1200s"
+  },
+  {
+    "chapter": 1,
+    "slug": "lecture-01-overview",
+    "section": "5. An agent closes the action–observation loop 41:00",
+    "anchor": "5-an-agent-closes-the-actionobservation-loop-4100",
+    "video_id": "6YnLB0XbTnI",
+    "start": 2460,
+    "window_end": 4182,
+    "url": "https://www.youtube.com/watch?v=6YnLB0XbTnI&t=2460s"
+  },
+  {
+    "chapter": 2,
+    "slug": "lecture-02-test-time-compute",
+    "section": "1. A correct candidate is not yet a correct service 00:00",
+    "anchor": "1-a-correct-candidate-is-not-yet-a-correct-service-0000",
+    "video_id": "-Ggc37xLj_Y",
+    "start": 0,
+    "window_end": 480,
+    "url": "https://www.youtube.com/watch?v=-Ggc37xLj_Y&t=0s"
+  },
+  {
+    "chapter": 2,
+    "slug": "lecture-02-test-time-compute",
+    "section": "2. Why easy examples disappear and hard examples remain 08:00",
+    "anchor": "2-why-easy-examples-disappear-and-hard-examples-remain-0800",
+    "video_id": "-Ggc37xLj_Y",
+    "start": 480,
+    "window_end": 720,
+    "url": "https://www.youtube.com/watch?v=-Ggc37xLj_Y&t=480s"
+  },
+  {
+    "chapter": 2,
+    "slug": "lecture-02-test-time-compute",
+    "section": "3. Verification is a statistical decision with a specification 12:00",
+    "anchor": "3-verification-is-a-statistical-decision-with-a-specification-1200",
+    "video_id": "-Ggc37xLj_Y",
+    "start": 720,
+    "window_end": 1560,
+    "url": "https://www.youtube.com/watch?v=-Ggc37xLj_Y&t=720s"
+  },
+  {
+    "chapter": 2,
+    "slug": "lecture-02-test-time-compute",
+    "section": "4. Width, depth, and the next useful unit of compute 26:00",
+    "anchor": "4-width-depth-and-the-next-useful-unit-of-compute-2600",
+    "video_id": "-Ggc37xLj_Y",
+    "start": 1560,
+    "window_end": 2700,
+    "url": "https://www.youtube.com/watch?v=-Ggc37xLj_Y&t=1560s"
+  },
+  {
+    "chapter": 2,
+    "slug": "lecture-02-test-time-compute",
+    "section": "5. Searching the inference architecture 45:00",
+    "anchor": "5-searching-the-inference-architecture-4500",
+    "video_id": "-Ggc37xLj_Y",
+    "start": 2700,
+    "window_end": 3801,
+    "url": "https://www.youtube.com/watch?v=-Ggc37xLj_Y&t=2700s"
+  },
+  {
+    "chapter": 3,
+    "slug": "lecture-03-verification",
+    "section": "1. A verifier learns a target, not truth in general 00:00",
+    "anchor": "1-a-verifier-learns-a-target-not-truth-in-general-0000",
+    "video_id": "p7TdPUcPoik",
+    "start": 0,
+    "window_end": 720,
+    "url": "https://www.youtube.com/watch?v=p7TdPUcPoik&t=0s"
+  },
+  {
+    "chapter": 3,
+    "slug": "lecture-03-verification",
+    "section": "2. Rare correctness makes small verifier errors expensive 12:00",
+    "anchor": "2-rare-correctness-makes-small-verifier-errors-expensive-1200",
+    "video_id": "p7TdPUcPoik",
+    "start": 720,
+    "window_end": 1260,
+    "url": "https://www.youtube.com/watch?v=p7TdPUcPoik&t=720s"
+  },
+  {
+    "chapter": 3,
+    "slug": "lecture-03-verification",
+    "section": "3. Process supervision asks where reasoning first fails 21:00",
+    "anchor": "3-process-supervision-asks-where-reasoning-first-fails-2100",
+    "video_id": "p7TdPUcPoik",
+    "start": 1260,
+    "window_end": 2220,
+    "url": "https://www.youtube.com/watch?v=p7TdPUcPoik&t=1260s"
+  },
+  {
+    "chapter": 3,
+    "slug": "lecture-03-verification",
+    "section": "4. Rollouts estimate future success, not local logical validity 37:00",
+    "anchor": "4-rollouts-estimate-future-success-not-local-logical-validity-3700",
+    "video_id": "p7TdPUcPoik",
+    "start": 2220,
+    "window_end": 3060,
+    "url": "https://www.youtube.com/watch?v=p7TdPUcPoik&t=2220s"
+  },
+  {
+    "chapter": 3,
+    "slug": "lecture-03-verification",
+    "section": "5. Ensembles help when errors contain independent information 51:00",
+    "anchor": "5-ensembles-help-when-errors-contain-independent-information-5100",
+    "video_id": "p7TdPUcPoik",
+    "start": 3060,
+    "window_end": 4379,
+    "url": "https://www.youtube.com/watch?v=p7TdPUcPoik&t=3060s"
+  },
+  {
+    "chapter": 4,
+    "slug": "lecture-04-feedback",
+    "section": "1. A thought is not an observation 00:00",
+    "anchor": "1-a-thought-is-not-an-observation-0000",
+    "video_id": "Lxh9RF5S-K0",
+    "start": 0,
+    "window_end": 480,
+    "url": "https://www.youtube.com/watch?v=Lxh9RF5S-K0&t=0s"
+  },
+  {
+    "chapter": 4,
+    "slug": "lecture-04-feedback",
+    "section": "2. Valid actions and bounded feedback loops 08:00",
+    "anchor": "2-valid-actions-and-bounded-feedback-loops-0800",
+    "video_id": "Lxh9RF5S-K0",
+    "start": 480,
+    "window_end": 1620,
+    "url": "https://www.youtube.com/watch?v=Lxh9RF5S-K0&t=480s"
+  },
+  {
+    "chapter": 4,
+    "slug": "lecture-04-feedback",
+    "section": "3. Learning to use execution feedback 27:00",
+    "anchor": "3-learning-to-use-execution-feedback-2700",
+    "video_id": "Lxh9RF5S-K0",
+    "start": 1620,
+    "window_end": 2760,
+    "url": "https://www.youtube.com/watch?v=Lxh9RF5S-K0&t=1620s"
+  },
+  {
+    "chapter": 4,
+    "slug": "lecture-04-feedback",
+    "section": "4. Critique and principles supply another kind of feedback 46:00",
+    "anchor": "4-critique-and-principles-supply-another-kind-of-feedback-4600",
+    "video_id": "Lxh9RF5S-K0",
+    "start": 2760,
+    "window_end": 3480,
+    "url": "https://www.youtube.com/watch?v=Lxh9RF5S-K0&t=2760s"
+  },
+  {
+    "chapter": 4,
+    "slug": "lecture-04-feedback",
+    "section": "5. Feedback quality is a property of a loop 58:00",
+    "anchor": "5-feedback-quality-is-a-property-of-a-loop-5800",
+    "video_id": "Lxh9RF5S-K0",
+    "start": 3480,
+    "window_end": 4273,
+    "url": "https://www.youtube.com/watch?v=Lxh9RF5S-K0&t=3480s"
+  },
+  {
+    "chapter": 5,
+    "slug": "lecture-05-planning",
+    "section": "1. A plan proposes future interaction 00:00",
+    "anchor": "1-a-plan-proposes-future-interaction-0000",
+    "video_id": "Ml_fp9XkB8Y",
+    "start": 0,
+    "window_end": 480,
+    "url": "https://www.youtube.com/watch?v=Ml_fp9XkB8Y&t=0s"
+  },
+  {
+    "chapter": 5,
+    "slug": "lecture-05-planning",
+    "section": "2. Monte Carlo tree search balances estimates and exploration 08:00",
+    "anchor": "2-monte-carlo-tree-search-balances-estimates-and-exploration-0800",
+    "video_id": "Ml_fp9XkB8Y",
+    "start": 480,
+    "window_end": 1140,
+    "url": "https://www.youtube.com/watch?v=Ml_fp9XkB8Y&t=480s"
+  },
+  {
+    "chapter": 5,
+    "slug": "lecture-05-planning",
+    "section": "3. Branching requires isolation or a credible simulator 19:00",
+    "anchor": "3-branching-requires-isolation-or-a-credible-simulator-1900",
+    "video_id": "Ml_fp9XkB8Y",
+    "start": 1140,
+    "window_end": 1380,
+    "url": "https://www.youtube.com/watch?v=Ml_fp9XkB8Y&t=1140s"
+  },
+  {
+    "chapter": 5,
+    "slug": "lecture-05-planning",
+    "section": "4. Parallel reasoning reduces delay only where dependencies permit 23:00",
+    "anchor": "4-parallel-reasoning-reduces-delay-only-where-dependencies-permit-2300",
+    "video_id": "Ml_fp9XkB8Y",
+    "start": 1380,
+    "window_end": 3000,
+    "url": "https://www.youtube.com/watch?v=Ml_fp9XkB8Y&t=1380s"
+  },
+  {
+    "chapter": 5,
+    "slug": "lecture-05-planning",
+    "section": "5. Learning actions from stored trajectories 50:00",
+    "anchor": "5-learning-actions-from-stored-trajectories-5000",
+    "video_id": "Ml_fp9XkB8Y",
+    "start": 3000,
+    "window_end": 4496,
+    "url": "https://www.youtube.com/watch?v=Ml_fp9XkB8Y&t=3000s"
+  },
+  {
+    "chapter": 6,
+    "slug": "lecture-06-training",
+    "section": "1. What should persist after a successful repair? 00:00",
+    "anchor": "1-what-should-persist-after-a-successful-repair-0000",
+    "video_id": "yVnmHSAy3ck",
+    "start": 0,
+    "window_end": 960,
+    "url": "https://www.youtube.com/watch?v=yVnmHSAy3ck&t=0s"
+  },
+  {
+    "chapter": 6,
+    "slug": "lecture-06-training",
+    "section": "2. STaR converts selected reasoning into training data 16:00",
+    "anchor": "2-star-converts-selected-reasoning-into-training-data-1600",
+    "video_id": "yVnmHSAy3ck",
+    "start": 960,
+    "window_end": 2460,
+    "url": "https://www.youtube.com/watch?v=yVnmHSAy3ck&t=960s"
+  },
+  {
+    "chapter": 6,
+    "slug": "lecture-06-training",
+    "section": "3. Deriving the policy-gradient signal 41:00",
+    "anchor": "3-deriving-the-policy-gradient-signal-4100",
+    "video_id": "yVnmHSAy3ck",
+    "start": 2460,
+    "window_end": 2700,
+    "url": "https://www.youtube.com/watch?v=yVnmHSAy3ck&t=2460s"
+  },
+  {
+    "chapter": 6,
+    "slug": "lecture-06-training",
+    "section": "4. Group-relative advantages and clipped updates 44:00",
+    "anchor": "4-group-relative-advantages-and-clipped-updates-4400",
+    "video_id": "yVnmHSAy3ck",
+    "start": 2640,
+    "window_end": 3180,
+    "url": "https://www.youtube.com/watch?v=yVnmHSAy3ck&t=2640s"
+  },
+  {
+    "chapter": 6,
+    "slug": "lecture-06-training",
+    "section": "5. DAPO shows that implementation details alter the objective 53:00",
+    "anchor": "5-dapo-shows-that-implementation-details-alter-the-objective-5300",
+    "video_id": "yVnmHSAy3ck",
+    "start": 3180,
+    "window_end": 3660,
+    "url": "https://www.youtube.com/watch?v=yVnmHSAy3ck&t=3180s"
+  },
+  {
+    "chapter": 6,
+    "slug": "lecture-06-training",
+    "section": "6. Does RL create capability or concentrate it? 61:00",
+    "anchor": "6-does-rl-create-capability-or-concentrate-it-6100",
+    "video_id": "yVnmHSAy3ck",
+    "start": 3660,
+    "window_end": 4359,
+    "url": "https://www.youtube.com/watch?v=yVnmHSAy3ck&t=3660s"
+  },
+  {
+    "chapter": 7,
+    "slug": "lecture-07-research-agents",
+    "section": "1. A large candidate pool is only the beginning 00:00",
+    "anchor": "1-a-large-candidate-pool-is-only-the-beginning-0000",
+    "video_id": "Uni9dqyuuDM",
+    "start": 0,
+    "window_end": 360,
+    "url": "https://www.youtube.com/watch?v=Uni9dqyuuDM&t=0s"
+  },
+  {
+    "chapter": 7,
+    "slug": "lecture-07-research-agents",
+    "section": "2. Behavioral diversity is more useful than textual variety 06:00",
+    "anchor": "2-behavioral-diversity-is-more-useful-than-textual-variety-0600",
+    "video_id": "Uni9dqyuuDM",
+    "start": 360,
+    "window_end": 1500,
+    "url": "https://www.youtube.com/watch?v=Uni9dqyuuDM&t=360s"
+  },
+  {
+    "chapter": 7,
+    "slug": "lecture-07-research-agents",
+    "section": "3. Stronger generation and learned scoring solve different bottlenecks 25:00",
+    "anchor": "3-stronger-generation-and-learned-scoring-solve-different-bottlenecks-2500",
+    "video_id": "Uni9dqyuuDM",
+    "start": 1500,
+    "window_end": 2760,
+    "url": "https://www.youtube.com/watch?v=Uni9dqyuuDM&t=1500s"
+  },
+  {
+    "chapter": 7,
+    "slug": "lecture-07-research-agents",
+    "section": "4. Knowledge gaps require external evidence 46:00",
+    "anchor": "4-knowledge-gaps-require-external-evidence-4600",
+    "video_id": "Uni9dqyuuDM",
+    "start": 2760,
+    "window_end": 3300,
+    "url": "https://www.youtube.com/watch?v=Uni9dqyuuDM&t=2760s"
+  },
+  {
+    "chapter": 7,
+    "slug": "lecture-07-research-agents",
+    "section": "5. When another search is worth its cost 55:00",
+    "anchor": "5-when-another-search-is-worth-its-cost-5500",
+    "video_id": "Uni9dqyuuDM",
+    "start": 3300,
+    "window_end": 4347,
+    "url": "https://www.youtube.com/watch?v=Uni9dqyuuDM&t=3300s"
+  },
+  {
+    "chapter": 8,
+    "slug": "lecture-08-evaluation",
+    "section": "1. Evaluate the configured system and the decision it supports 00:00",
+    "anchor": "1-evaluate-the-configured-system-and-the-decision-it-supports-0000",
+    "video_id": "8JAqLnTaZu4",
+    "start": 0,
+    "window_end": 300,
+    "url": "https://www.youtube.com/watch?v=8JAqLnTaZu4&t=0s"
+  },
+  {
+    "chapter": 8,
+    "slug": "lecture-08-evaluation",
+    "section": "2. Human-duration horizons measure task difficulty, not runtime 05:00",
+    "anchor": "2-human-duration-horizons-measure-task-difficulty-not-runtime-0500",
+    "video_id": "8JAqLnTaZu4",
+    "start": 300,
+    "window_end": 1200,
+    "url": "https://www.youtube.com/watch?v=8JAqLnTaZu4&t=300s"
+  },
+  {
+    "chapter": 8,
+    "slug": "lecture-08-evaluation",
+    "section": "3. Reliability requires recovery and state management 20:00",
+    "anchor": "3-reliability-requires-recovery-and-state-management-2000",
+    "video_id": "8JAqLnTaZu4",
+    "start": 1200,
+    "window_end": 1620,
+    "url": "https://www.youtube.com/watch?v=8JAqLnTaZu4&t=1200s"
+  },
+  {
+    "chapter": 8,
+    "slug": "lecture-08-evaluation",
+    "section": "4. Professional output quality requires a different evaluator 27:00",
+    "anchor": "4-professional-output-quality-requires-a-different-evaluator-2700",
+    "video_id": "8JAqLnTaZu4",
+    "start": 1620,
+    "window_end": 3060,
+    "url": "https://www.youtube.com/watch?v=8JAqLnTaZu4&t=1620s"
+  },
+  {
+    "chapter": 8,
+    "slug": "lecture-08-evaluation",
+    "section": "5. Research synthesis needs support and completeness 51:00",
+    "anchor": "5-research-synthesis-needs-support-and-completeness-5100",
+    "video_id": "8JAqLnTaZu4",
+    "start": 3060,
+    "window_end": 4518,
+    "url": "https://www.youtube.com/watch?v=8JAqLnTaZu4&t=3060s"
+  },
+  {
+    "chapter": 9,
+    "slug": "lecture-09-frontiers",
+    "section": "1. Self-improvement needs new information, not just more copies 00:00",
+    "anchor": "1-self-improvement-needs-new-information-not-just-more-copies-0000",
+    "video_id": "AyO6wyu4DEg",
+    "start": 0,
+    "window_end": 900,
+    "url": "https://www.youtube.com/watch?v=AyO6wyu4DEg&t=0s"
+  },
+  {
+    "chapter": 9,
+    "slug": "lecture-09-frontiers",
+    "section": "2. Verification itself becomes a learning target 15:00",
+    "anchor": "2-verification-itself-becomes-a-learning-target-1500",
+    "video_id": "AyO6wyu4DEg",
+    "start": 900,
+    "window_end": 1380,
+    "url": "https://www.youtube.com/watch?v=AyO6wyu4DEg&t=900s"
+  },
+  {
+    "chapter": 9,
+    "slug": "lecture-09-frontiers",
+    "section": "3. A model can propose its own curriculum 23:00",
+    "anchor": "3-a-model-can-propose-its-own-curriculum-2300",
+    "video_id": "AyO6wyu4DEg",
+    "start": 1380,
+    "window_end": 2040,
+    "url": "https://www.youtube.com/watch?v=AyO6wyu4DEg&t=1380s"
+  },
+  {
+    "chapter": 9,
+    "slug": "lecture-09-frontiers",
+    "section": "4. Slow verification changes the optimal experiment 34:00",
+    "anchor": "4-slow-verification-changes-the-optimal-experiment-3400",
+    "video_id": "AyO6wyu4DEg",
+    "start": 2040,
+    "window_end": 2400,
+    "url": "https://www.youtube.com/watch?v=AyO6wyu4DEg&t=2040s"
+  },
+  {
+    "chapter": 9,
+    "slug": "lecture-09-frontiers",
+    "section": "5. Power, energy, and correct completions answer different questions 40:00",
+    "anchor": "5-power-energy-and-correct-completions-answer-different-questions-4000",
+    "video_id": "AyO6wyu4DEg",
+    "start": 2400,
+    "window_end": 3120,
+    "url": "https://www.youtube.com/watch?v=AyO6wyu4DEg&t=2400s"
+  },
+  {
+    "chapter": 9,
+    "slug": "lecture-09-frontiers",
+    "section": "6. Continual learning must preserve and revise prior competence 52:00",
+    "anchor": "6-continual-learning-must-preserve-and-revise-prior-competence-5200",
+    "video_id": "AyO6wyu4DEg",
+    "start": 3120,
+    "window_end": 4062,
+    "url": "https://www.youtube.com/watch?v=AyO6wyu4DEg&t=3120s"
+  }
+]
